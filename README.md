@@ -23,9 +23,9 @@
 
 ```mermaid
 graph TD
-    A[Core Systems Logic: C/C++] --> B[Scalable Backend Interfaces: Node.js/FastAPI]
-    B --> C[High-End Visual Layouts: Tailwind/React]
-    C --> D[Shipped Full-Stack Products & Ventures]
+    A[Core Logic: C/C++/Java/Python] --> B[Functional Interfaces: HTML/CSS/Tailwind/React]
+    B --> C[Cloud Deployment Management: Vercel/Render]
+    C --> D[Shipped Products, Design Assets & E-Com Revenue]
     style A fill:#1a1a2e,stroke:#FF007F,stroke-width:2px,color:#fff
     style B fill:#16162a,stroke:#8A2BE2,stroke-width:2px,color:#fff
     style C fill:#16162a,stroke:#00F5FF,stroke-width:2px,color:#fff
@@ -43,14 +43,13 @@ graph TD
 
 ![HTML](https://shields.io)
 ![CSS](https://shields.io)
+![Tailwind CSS](https://shields.io)
 ![JavaScript](https://shields.io)
 ![React](https://shields.io)
-![Tailwind CSS](https://shields.io)
-![Python](https://shields.io)
-![FastAPI](https://shields.io)
-![Gemini](https://shields.io)
 ![C++](https://shields.io)
 ![C](https://shields.io)
+![Python](https://shields.io)
+![Java](https://shields.io)
 ![MySQL](https://shields.io)
 ![Vercel](https://shields.io)
 ![Git](https://shields.io)
@@ -60,9 +59,9 @@ graph TD
 
 | Layer | System Domain & Capabilities |
 | :--- | :--- |
-| **Logic Engines** | Low-level execution optimization, runtime constraints mapping, pointer structures, data manipulation. |
-| **Interface Networks** | Asynchronous API streaming, state hydration, dynamic rendering pipelines, modular layout geometry. |
-| **Creative Systems** | Vector graphics forging, visual hierarchy engineering, user acquisition strategies, client monetization. |
+| **Logic & Data** | System flow control, algorithmic structures, mathematical calculations, foundational data storage via MySQL query management. |
+| **Web Infrastructure** | Dynamic user interfaces via React component architecture, highly optimized style trees using Tailwind CSS utility classes. |
+| **Creative Systems** | Custom brand design, multi-platform layout composition, automated AI presentation frameworks, independent digital storefront monetization. |
 
 ---
 
@@ -70,9 +69,9 @@ graph TD
 
 | System Platform | Core Stack Architecture | Operational Pipeline | Verification Metrics |
 | :--- | :--- | :--- | :--- |
-| **Codeyy** | `Next.js` · `Node.js` · `Express` · `OCR Engine` | Live Line-by-Line Syntax Code Analysis Suite | [Production Active](https://vercel.app) |
+| **Codeyy** | `React` · `Tailwind CSS` · `APIs` · `Gemini` | Live Image OCR Developer Analytics Platform | [Production Active](https://vercel.app) |
 | **ResilioGate AI** | `Python` · `Pandas` · `ML Ensembles` · `React` | Multi-Layer Perceptron Supply Chain Gating Switchboard | [Hackathon Track Active] |
-| **LayeredUpp E-Com** | `Tailwind CSS` · `Shopify API` · `Gumroad Engine` | Independent Monetized Digital Property Framework | [Live Commercial Deploy](https://beacons.ai) |
+| **LayeredUpp Assets** | `Tailwind` · `Shopify` · `Gumroad` · `Design` | Independent Creative Business Framework | [Live Commercial Deploy](https://beacons.ai) |
 
 ---
 
@@ -81,13 +80,13 @@ graph TD
 #### ◈ Codeyy — AI-Powered Developer Intelligence Platform
 *   **The Architecture:** A fully functional developer analytics suite hosted on the Vercel edge network. Ingests raw snippets or multi-format screenshots via a fast image OCR engine to run isolated logic diagnosis.
 *   **The Leverage:** Automates structural programming language detection, maps sequential line-by-line execution loops, tracks dry runs, and converts algebraic time/space complexities across 30+ production languages.
-*   **Pipeline:** `React Engine` · `Tailwind CSS Framework` · `Node.js Server` · `Google Gemini API Studio`
+*   **Pipeline:** `React Interface Engine` · `Tailwind CSS Structural Framework` · `Asynchronous AI Tooling APIs`
 *   🔗 **Run Mainframe:** [codeyy-gamma.vercel.app](https://vercel.app)
 
 #### ◈ ResilioGate AI — Adaptive Supply Chain Routing Engine
 *   **The Architecture:** A synchronized predictive forecasting matrix engineered under the Swiss-Indo research framework to resolve non-stationary distribution breaks across massive time-series datasets.
 *   **The Leverage:** Completely replaces blind, static percentage averages with a native Multi-Layer Perceptron gating network running on vectorized data context, reporting metrics across separate stable and volatile profiles.
-*   **Pipeline:** `Python Analytics` · `Pandas Vector Slicing` · `Node.js Pipeline` · `React Dashboard Interface`
+*   **Pipeline:** `Python Computation Modules` · `Node.js Server Layer` · `React Dashboard Interface`
 
 ---
 
@@ -98,8 +97,8 @@ mindmap
   root((Trusha))
     Technical Execution
       Data Structures & Algorithms
-      Full Stack Web Development
-      API System Integrations
+      Frontend Interface Engineering
+      Cloud Hosting Frameworks
     Business Strategy
       E Commerce Architecture
       Client Monetization
