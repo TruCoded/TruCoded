@@ -1,47 +1,110 @@
-✦ TRUCODED
-Turning "what if?" into shipped products.
+<div align="center">
+  <img src="https://vercel.app" width="100%" />
+</div>
 
-Designer by instinct. Engineer by obsession.
+<p align="center">
+  <img src="https://giphy.com" width="120" />
+</p>
 
-Currently Building
+<p align="center">
+  <strong>Hi, I'm Trusha. An engineering student focused on the intersection of software development, entrepreneurship, and design.</strong><br />
+  <em>I engineer digital products, explore startup frameworks, and design visual systems for businesses and high-growth projects.</em>
+</p>
 
-Creating products at the intersection of software, AI, design, and curiosity.
+<p align="center">
+  <a href="https://github.com"><img src="https://shields.io" /></a>
+  <a href="https://vercel.app"><img src="https://shields.io" /></a>
+  <img src="https://komarev.com" />
+</p>
 
-Sometimes they become hackathon projects.
+---
 
-Sometimes they become startups.
+### Execution Framework
 
-Sometimes they become 3 a.m. rabbit holes.
+```mermaid
+graph TD
+    A[Core Systems Logic: C/C++] --> B[Scalable Backend Interfaces: Node.js/FastAPI]
+    B --> C[High-End Visual Layouts: Tailwind/React]
+    C --> D[Shipped Full-Stack Products & Ventures]
+    style A fill:#1a1a2e,stroke:#FF007F,stroke-width:2px,color:#fff
+    style B fill:#16162a,stroke:#8A2BE2,stroke-width:2px,color:#fff
+    style C fill:#16162a,stroke:#00F5FF,stroke-width:2px,color:#fff
+    style D fill:#1a1a2e,stroke:#00FF7F,stroke-width:2px,color:#fff
+```
 
-Playground
-<p align="center"> <img src="https://skillicons.dev/icons?i=cpp,java,python,js,html,css,fastapi,git,github,vscode,vercel" /> </p>
-Featured
-Codeyy
+*   **The Technical Approach:** I do not collect un-compiled theoretical syntax. I deploy functional prototypes using generative intelligence arrays, then reverse-engineer the underlying code mechanics to master core computer science and algorithms.
+*   **The Commercial Approach:** I operate a monetized graphic design, digital branding, and marketing business dealing directly with clients. I believe in becoming a well-rounded engineer by connecting technical logic straight to business strategy and active production loops.
 
-AI-powered code understanding platform.
+---
 
-Built to help developers understand code, not just generate it.
+### Core Technology Matrix
 
-🔗 https://codeyy-gamma.vercel.app/
+![HTML](https://shields.io)
+![CSS](https://shields.io)
+![JavaScript](https://shields.io)
+![React](https://shields.io)
+![Tailwind CSS](https://shields.io)
+![Python](https://shields.io)
+![FastAPI](https://shields.io)
+![Gemini](https://shields.io)
+![C++](https://shields.io)
+![C](https://shields.io)
+![MySQL](https://shields.io)
+![Vercel](https://shields.io)
+![Git](https://shields.io)
+![GitHub](https://shields.io)
 
-GitHub
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=TruCoded&show_icons=true&theme=tokyonight&hide_border=true" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TruCoded&layout=compact&theme=tokyonight&hide_border=true" /> </p>
-Live Metrics
+| Layer | System Domain & Capabilities |
+| :--- | :--- |
+| **Logic Engines** | Low-level execution optimization, runtime constraints mapping, pointer structures, data manipulation. |
+| **Interface Networks** | Asynchronous API streaming, state hydration, dynamic rendering pipelines, modular layout geometry. |
+| **Creative Systems** | Vector graphics forging, visual hierarchy engineering, user acquisition strategies, client monetization. |
 
-Profile Views
-https://komarev.com/ghpvc/?username=TruCoded&style=for-the-badge
+---
 
-Followers
-https://img.shields.io/github/followers/TruCoded?style=for-the-badge
+### Active Production Shipped
 
-Stars
-https://img.shields.io/github/stars/TruCoded?style=for-the-badge
+#### ◈ Codeyy — AI-Powered Developer Intelligence Platform
+*   **The Architecture:** A fully functional developer analytics suite hosted on the Vercel edge network. Ingests raw snippets or multi-format screenshots via a fast image OCR engine to run isolated logic diagnosis.
+*   **The Leverage:** Automates structural programming language detection, maps sequential line-by-line execution loops, tracks dry runs, and converts algebraic time/space complexities across 30+ production languages.
+*   **Pipeline:** `React Engine` · `Tailwind CSS Framework` · `Node.js Server` · `Google Gemini API Studio`
+*   🔗 **Run Mainframe:** [codeyy-gamma.vercel.app](https://vercel.app)
 
-Repositories
-https://img.shields.io/badge/dynamic/json?color=blue&label=repositories&query=public_repos&url=https://api.github.com/users/TruCoded
+#### ◈ ResilioGate AI — Adaptive Supply Chain Routing Engine
+*   **The Architecture:** A synchronized predictive forecasting matrix engineered under the Swiss-Indo research framework to resolve non-stationary distribution breaks across massive time-series datasets.
+*   **The Leverage:** Completely replaces blind, static percentage averages with a native Multi-Layer Perceptron gating network running on vectorized data context, reporting metrics across separate stable and volatile profiles.
+*   **Pipeline:** `Python Analytics` · `Pandas Vector Slicing` · `Node.js Pipeline` · `React Dashboard Interface`
 
-Elsewhere
+---
 
-GitHub → https://github.com/TruCoded
+### Multi-Dimensional Focus
 
-Codeyy → https://codeyy-gamma.vercel.app/
+```mermaid
+mindmap
+  root((Trusha))
+    Technical Execution
+      Data Structures & Algorithms
+      Full Stack Web Development
+      API System Integrations
+    Business Strategy
+      E Commerce Architecture
+      Client Monetization
+      Digital Branding & Marketing
+    Interests & Curiosities
+      Strategic Chess
+      Musical Performance
+      Culinary Exploration
+```
+
+---
+
+### System Performance & Diagnostics
+
+<p align="center">
+  <img src="https://vercel.app" width="49%" />
+  <img src="https://vercel.app" width="49%" />
+</p>
+
+<div align="center">
+  <img src="https://vercel.app" width="100%" />
+</div>
