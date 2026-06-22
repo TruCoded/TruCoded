@@ -93,6 +93,7 @@ Educational management platform designed to streamline academic workflows and ad
 ---
 
 ## GitHub Analytics
+![Profile Views](https://komarev.com/ghpvc/?username=TruCoded&style=for-the-badge&color=8B5CF6)
 
 <p align="center">
 
