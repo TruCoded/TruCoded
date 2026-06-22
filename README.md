@@ -97,11 +97,11 @@ Educational management platform designed to streamline workflows and administrat
 ---
 
 ## 🚀 Featured Work
-
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TruCoded&theme=tokyonight" />
+
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TruCoded&theme=tokyonight" />
-  ![Views](https://komarev.com/ghpvc/?username=TruCoded&repo=codeyy)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TruCoded&theme=tokyonight" />
+
 </p>
 
 ---
