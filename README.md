@@ -99,15 +99,8 @@ Educational management platform designed to streamline workflows and administrat
 ## 🚀 Featured Work
 
 <p align="center">
-
-<a href="https://github.com/TruCoded/YOUR_TOP_REPO">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=TruCoded&repo=YOUR_TOP_REPO&theme=tokyonight" />
-</a>
-
-<a href="https://github.com/TruCoded/YOUR_SECOND_REPO">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=TruCoded&repo=YOUR_SECOND_REPO&theme=tokyonight" />
-</a>
-
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TruCoded&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TruCoded&theme=tokyonight" />
 </p>
 
 ---
