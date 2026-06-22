@@ -18,7 +18,7 @@ Hi, I'm Trusha.
 
 I started with graphic design, branding, and visual storytelling before diving into software development.
 
-Today, you'll usually find me somewhere between VS Code, Figma, hackathon projects, startup ideas, and side quests that sounded much easier in my head.
+Today, you'll usually find me somewhere between VS Code, hackathon projects, startup ideas, and side quests that sounded much easier in my head.
 
 I enjoy building things that combine technology, creativity, and problem-solving.
 
@@ -86,15 +86,15 @@ Experiments, prototypes, and projects exploring AI, productivity, education, and
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=TruCoded&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TruCoded&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=TruCoded&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -104,29 +104,46 @@ Experiments, prototypes, and projects exploring AI, productivity, education, and
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=blueviolet"/>
+<img src="https://komarev.com/ghpvc/?username=TruCoded&style=for-the-badge&color=8B5CF6"/>
 
-<img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/TruCoded?style=for-the-badge&color=0EA5E9&label=Followers"/>
 
-<img src="https://img.shields.io/github/stars/YOUR_USERNAME?style=for-the-badge"/>
+<img src="https://img.shields.io/github/repos/TruCoded?style=for-the-badge"/>
 
 </p>
 
 ---
 
-## Beyond Tech
+## 💫 Beyond Tech
 
-🎨 Graphic Design & Branding
+> A blend of strategy, creativity, and expressive thinking.
 
-🚀 Entrepreneurship & Product Building
+---
 
-♟️ Chess
+### ♟️ Strategic Thinking
+♟️ Chess — Pattern recognition, deep calculation, decision mastery  
 
-🎵 Music
+![Chess Animation](https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif)
 
-🍳 Cooking
+🧩 Sudoku — Logical structuring, patience, mental clarity  
 
-🏆 Hackathons
+![Logic Animation](https://media.giphy.com/media/l0HlQ7LRalQqdWfao/giphy.gif)
+
+---
+
+### 🎵 Creative Flow
+🎵 Music — Rhythm, emotion, improvisation, expression  
+
+![Music Flow](https://media.giphy.com/media/26BRrSvJUa0crqw4E/giphy.gif)
+
+---
+
+### 🚀 Builder Energy
+🚀 Entrepreneurship — Turning ideas into real-world impact  
+🏆 Hackathons — Fast execution under pressure  
+🎨 Graphic Design & Branding — Visual storytelling & identity crafting  
+
+![Build Mode](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
 
 ---
 
