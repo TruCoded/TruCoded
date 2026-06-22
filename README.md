@@ -66,19 +66,15 @@ Currently focused on software engineering, AI, product building, and continuous 
 
 ---
 
-## Featured Projects
+## Top Projects
 
 ### Codeyy
 
-AI-powered code understanding platform focused on helping developers understand code instead of blindly generating it.
+AI-powered code understanding platform focused on helping developers understand code instead of blindly generating it. https://github.com/TruCoded/codeyy 
 
 ### School Management System
 
-Educational management platform designed to streamline workflows and administration.
-
-### Hackathon Builds
-
-Experiments, prototypes, and projects exploring AI, productivity, education, and software systems.
+Educational management platform designed to streamline workflows and administration. https://schoolmanagement-cyan.vercel.app/
 
 ---
 
@@ -100,15 +96,17 @@ Experiments, prototypes, and projects exploring AI, productivity, education, and
 
 ---
 
-## Live Metrics
+## 🚀 Featured Work
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=TruCoded&style=for-the-badge&color=8B5CF6"/>
+<a href="https://github.com/TruCoded/YOUR_TOP_REPO">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=TruCoded&repo=YOUR_TOP_REPO&theme=tokyonight" />
+</a>
 
-<img src="https://img.shields.io/github/followers/TruCoded?style=for-the-badge&color=0EA5E9&label=Followers"/>
-
-<img src="https://img.shields.io/github/repos/TruCoded?style=for-the-badge"/>
+<a href="https://github.com/TruCoded/YOUR_SECOND_REPO">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=TruCoded&repo=YOUR_SECOND_REPO&theme=tokyonight" />
+</a>
 
 </p>
 
@@ -116,34 +114,43 @@ Experiments, prototypes, and projects exploring AI, productivity, education, and
 
 ## 💫 Beyond Tech
 
-> A blend of strategy, creativity, and expressive thinking.
+> Strategic thinking, structured creativity, and execution-driven mindset.
 
 ---
 
 ### ♟️ Strategic Thinking
-♟️ Chess — Pattern recognition, deep calculation, decision mastery  
 
-![Chess Animation](https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif)
+![Chess](https://img.shields.io/badge/Chess-Strategic_Thinking-111111?style=for-the-badge&logo=lichess&logoColor=white)
 
-🧩 Sudoku — Logical structuring, patience, mental clarity  
+Focus on pattern recognition, foresight, and structured decision-making.
 
-![Logic Animation](https://media.giphy.com/media/l0HlQ7LRalQqdWfao/giphy.gif)
+<p align="center">
+<img src="https://media.giphy.com/media/l3q2K5jinAlChoCLS/giphy.gif" width="380"/>
+</p>
 
 ---
 
 ### 🎵 Creative Flow
-🎵 Music — Rhythm, emotion, improvisation, expression  
 
-![Music Flow](https://media.giphy.com/media/26BRrSvJUa0crqw4E/giphy.gif)
+![Music](https://img.shields.io/badge/Music-Structured_Creativity-6A0DAD?style=for-the-badge&logo=spotify&logoColor=white)
+
+Rhythm, expression, and abstract thinking translated into structured output.
 
 ---
 
-### 🚀 Builder Energy
-🚀 Entrepreneurship — Turning ideas into real-world impact  
-🏆 Hackathons — Fast execution under pressure  
-🎨 Graphic Design & Branding — Visual storytelling & identity crafting  
+### 🚀 Execution Zone
 
-![Build Mode](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
+![Hackathons](https://img.shields.io/badge/Hackathons-Fast_Execution-FF6B00?style=for-the-badge&logo=github&logoColor=white)
+
+High-pressure building, rapid prototyping, and real-world problem solving.
+
+---
+
+### 🎨 Design Thinking
+
+![Design](https://img.shields.io/badge/Design-Visual_Thinking-0A66C2?style=for-the-badge&logo=figma&logoColor=white)
+
+Crafting identity systems, branding, and structured visual communication.
 
 ---
 
