@@ -1,20 +1,20 @@
-<div align="center">
-  <img src="https://vercel.app" width="100%" />
-</div>
+# ✦ TruCoded
+
+<img src="https://vercel.app" width="100%" />
 
 <p align="center">
-  <img src="https://giphy.com" width="120" />
+  <img src="https://giphy.com" width="120" alt="Hi" />
 </p>
 
 <p align="center">
   <strong>Hi, I'm Trusha. An engineering student focused on the intersection of software development, entrepreneurship, and design.</strong><br />
-  <em>I engineer digital products, explore startup frameworks, and design visual systems for businesses and high-growth projects.</em>
+  <em>I engineer digital products, explore startup frameworks, and design visual systems for businesses and high-growth projects. Most people study syntax; I build functional full-stack platforms and run an independent digital creative engine.</em>
 </p>
 
 <p align="center">
-  <a href="https://github.com"><img src="https://shields.io" /></a>
-  <a href="https://vercel.app"><img src="https://shields.io" /></a>
-  <img src="https://komarev.com" />
+  <a href="https://github.com"><img src="https://shields.io" alt="Followers" /></a>
+  <a href="https://vercel.app"><img src="https://shields.io" alt="Live App" /></a>
+  <img src="https://komarev.com" alt="Views" />
 </p>
 
 ---
@@ -39,6 +39,8 @@ graph TD
 
 ### Core Technology Matrix
 
+<div align="center">
+
 ![HTML](https://shields.io)
 ![CSS](https://shields.io)
 ![JavaScript](https://shields.io)
@@ -54,11 +56,23 @@ graph TD
 ![Git](https://shields.io)
 ![GitHub](https://shields.io)
 
+</div>
+
 | Layer | System Domain & Capabilities |
 | :--- | :--- |
 | **Logic Engines** | Low-level execution optimization, runtime constraints mapping, pointer structures, data manipulation. |
 | **Interface Networks** | Asynchronous API streaming, state hydration, dynamic rendering pipelines, modular layout geometry. |
 | **Creative Systems** | Vector graphics forging, visual hierarchy engineering, user acquisition strategies, client monetization. |
+
+---
+
+### ◈ Current Project Matrix
+
+| System Platform | Core Stack Architecture | Operational Pipeline | Verification Metrics |
+| :--- | :--- | :--- | :--- |
+| **Codeyy** | `Next.js` · `Node.js` · `Express` · `OCR Engine` | Live Line-by-Line Syntax Code Analysis Suite | [Production Active](https://vercel.app) |
+| **ResilioGate AI** | `Python` · `Pandas` · `ML Ensembles` · `React` | Multi-Layer Perceptron Supply Chain Gating Switchboard | [Hackathon Track Active] |
+| **LayeredUpp E-Com** | `Tailwind CSS` · `Shopify API` · `Gumroad Engine` | Independent Monetized Digital Property Framework | [Live Commercial Deploy](https://beacons.ai) |
 
 ---
 
