@@ -1,8 +1,6 @@
 # 🚀 TruCoded
 
-<p align="center">
-  <img src="https://githubusercontent.com" width="120" alt="Hi" />
-</p>
+![Hi](https://githubusercontent.com)
 
 Hi, I'm Trusha, an engineering student with a strong interest in software development, entrepreneurship, design, and continuous learning. I enjoy solving problems through technology, building projects, exploring startup ideas, and developing skills that combine both technical and creative thinking.
 
@@ -10,13 +8,14 @@ Alongside coding and web development, I have experience in graphic design, brand
 
 I believe in becoming a well-rounded individual rather than limiting myself to a single field. My goal is to grow as a software engineer while continuing to explore innovation, business, design, and technology to create meaningful impact in the future.
 
-<p align="center">
-  <a href="https://vercel.app"><img src="https://shields.io" alt="Codeyy" /></a>
-  <a href="https://gumroad.com"><img src="https://shields.io" alt="Gumroad" /></a>
-  <a href="https://linktr.ee"><img src="https://shields.io" alt="Linktree" /></a>
-  <a href="https://linkedin.com"><img src="https://shields.io" alt="LinkedIn" /></a>
-  <a href="https://instagram.com"><img src="https://shields.io" alt="Instagram" /></a>
-</p>
+---
+
+## 🌐 Quick Links
+
+[![Gumroad](https://shields.io)](https://layeredupp.gumroad.com)
+[![Linktree](https://shields.io)](https://linktr.ee/layeredupp.in)
+[![LinkedIn](https://shields.io)](https://www.linkedin.com/in/trucoded/)
+[![Instagram](https://shields.io)](https://instagram.com/trusha_015)
 
 ---
 
@@ -59,13 +58,14 @@ I believe in becoming a well-rounded individual rather than limiting myself to a
 
 ---
 
-## 📩 Contact & Connect
+## 📩 Connect
 
-Feel free to reach out for collaborations, project building, or business inquiries:
-
-![Gmail](https://shields.io)
-![Gmail](https://shields.io)
-<a href="https://linkedin.com"><img src="https://shields.io" alt="LinkedIn Professional" /></a>
+[![LinkedIn](https://shields.io)](https://www.linkedin.com/in/trucoded/)
+[![Linktree](https://shields.io)](https://linktr.ee/layeredupp.in)
+[![Gumroad](https://shields.io)](https://layeredupp.gumroad.com)
+[![Instagram](https://shields.io)](https://instagram.com/trusha_015)
+![Personal Email](https://shields.io)
+![Business Inquiries](https://shields.io)
 
 ---
 
