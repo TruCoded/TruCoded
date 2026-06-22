@@ -61,7 +61,7 @@ Currently focused on software engineering, AI, product building, and continuous 
 ## Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=cpp,java,python,js,html,css,git,github,vscode,mysql,fastapi,vercel" />
+<img src="https://skillicons.dev/icons?i=cpp,python,js,html,css,git,github,vscode,mysql,vercel,render" />
 </p>
 
 ---
