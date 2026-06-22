@@ -111,46 +111,16 @@ Educational management platform designed to streamline workflows and administrat
 </p>
 
 ---
-
 ## 💫 Beyond Tech
 
-> Strategic thinking, structured creativity, and execution-driven mindset.
+> Interests that shape my thinking, problem-solving style, and creative execution.
 
----
-
-### ♟️ Strategic Thinking
-
-![Chess](https://img.shields.io/badge/Chess-Strategic_Thinking-111111?style=for-the-badge&logo=lichess&logoColor=white)
-
-Focus on pattern recognition, foresight, and structured decision-making.
-
-<p align="center">
-<img src="https://media.giphy.com/media/l3q2K5jinAlChoCLS/giphy.gif" width="380"/>
-</p>
-
----
-
-### 🎵 Creative Flow
-
-![Music](https://img.shields.io/badge/Music-Structured_Creativity-6A0DAD?style=for-the-badge&logo=spotify&logoColor=white)
-
-Rhythm, expression, and abstract thinking translated into structured output.
-
----
-
-### 🚀 Execution Zone
-
-![Hackathons](https://img.shields.io/badge/Hackathons-Fast_Execution-FF6B00?style=for-the-badge&logo=github&logoColor=white)
-
-High-pressure building, rapid prototyping, and real-world problem solving.
-
----
-
-### 🎨 Design Thinking
-
-![Design](https://img.shields.io/badge/Design-Visual_Thinking-0A66C2?style=for-the-badge&logo=figma&logoColor=white)
-
-Crafting identity systems, branding, and structured visual communication.
+![Chess](https://img.shields.io/badge/Chess-System%20Thinking-111111?style=for-the-badge&logo=lichess&logoColor=white)
+![Music](https://img.shields.io/badge/Music-Structured%20Creativity-6A0DAD?style=for-the-badge&logo=spotify&logoColor=white)
+![Hackathons](https://img.shields.io/badge/Hackathons-High%20Velocity%20Builder-FF6B00?style=for-the-badge&logo=github&logoColor=white)
+![Problem Solving](https://img.shields.io/badge/Problem%20Solving-Logical%20Depth-0EA5E9?style=for-the-badge&logo=leetcode&logoColor=white)
+![Design Thinking](https://img.shields.io/badge/Design%20Thinking-Visual%20Clarity-8B5CF6?style=for-the-badge&logo=figma&logoColor=white)
+![Entrepreneurship](https://img.shields.io/badge/Entrepreneurship-System%20Building-22C55E?style=for-the-badge&logo=rocket&logoColor=white)
 
 ---
 
