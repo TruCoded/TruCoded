@@ -66,15 +66,29 @@ Currently focused on software engineering, AI, product building, and continuous 
 
 ---
 
-## Top Projects
+## 🚀 Top Projects
 
-### Codeyy
+---
 
-AI-powered code understanding platform focused on helping developers understand code instead of blindly generating it. https://github.com/TruCoded/codeyy 
+### ⚡ Codeyy
 
-### School Management System
+AI-powered code understanding platform focused on helping developers understand code instead of blindly generating it.
 
-Educational management platform designed to streamline workflows and administration. https://schoolmanagement-cyan.vercel.app/
+[🌐 Live Demo](https://codeyy-gamma.vercel.app/) • [💻 GitHub](https://github.com/TruCoded/codeyy)
+
+![Stars](https://img.shields.io/github/stars/TruCoded/codeyy?style=for-the-badge&color=FACC15)
+![Forks](https://img.shields.io/github/forks/TruCoded/codeyy?style=for-the-badge&color=60A5FA)
+
+---
+
+### 🎓 School Management System
+
+Educational management platform designed to streamline academic workflows and administration.
+
+[🌐 Live Demo](https://schoolmanagement-cyan.vercel.app/) • [💻 GitHub](https://github.com/TruCoded/schoolmanagement)
+
+![Stars](https://img.shields.io/github/stars/TruCoded/schoolmanagement?style=for-the-badge&color=FACC15)
+![Forks](https://img.shields.io/github/forks/TruCoded/schoolmanagement?style=for-the-badge&color=60A5FA)
 
 ---
 
