@@ -1,5 +1,4 @@
 # 🚀 TruCoded
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/TruCoded/TruCoded/output/github-contribution-grid-snake.svg" alt="Snake Animation"/>
 </p>
@@ -7,16 +6,10 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=TruCoded&style=for-the-badge&color=8B5CF6"/>
 
-  <img src="https://img.shields.io/github/followers/TruCoded?style=for-the-badge"/>
-
   <img src="https://img.shields.io/github/last-commit/TruCoded/codeyy?style=for-the-badge"/>
 
-  <img src="https://img.shields.io/github/stars/TruCoded/codeyy?style=for-the-badge"/>
-
-  <img src="https://img.shields.io/github/forks/TruCoded/codeyy?style=for-the-badge"/>
+  <img src="https://img.shields.io/github/commit-activity/m/TruCoded/codeyy?style=for-the-badge"/>
 </p>
-
-
 <h3 align="center">Somewhere between a designer and a software engineer.</h3>
 
 <p align="center">
