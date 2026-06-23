@@ -1,14 +1,17 @@
-![snake gif](https://github.com/TruCoded/TruCoded/blob/output/github-contribution-grid-snake.svg)
+# 🚀 TruCoded
+
 <p align="center">
+  <img src="https://raw.githubusercontent.com/TruCoded/TruCoded/output/github-contribution-grid-snake.svg" alt="Snake Animation"/>
+</p>
 
-<img src="https://komarev.com/ghpvc/?username=TruCoded&style=for-the-badge"/>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=TruCoded&style=for-the-badge&color=8B5CF6"/>
 
-<img src="https://img.shields.io/badge/Repositories-XX-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Repositories-20+-blue?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Hackathons-XX-purple?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Hackathons-4-purple?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Projects_Built-XX-success?style=for-the-badge"/>
-
+  <img src="https://img.shields.io/badge/Projects_Built-10+-brightgreen?style=for-the-badge"/>
 </p>
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Trusha;Designer+%2B+Developer;Building+Cool+Stuff;Software+Engineering+%7C+AI+%7C+Design" />
