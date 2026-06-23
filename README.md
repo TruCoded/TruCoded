@@ -7,15 +7,15 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=TruCoded&style=for-the-badge&color=8B5CF6"/>
 
-  <img src="https://img.shields.io/badge/Repositories-20+-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/github/followers/TruCoded?style=for-the-badge"/>
 
-  <img src="https://img.shields.io/badge/Hackathons-4-purple?style=for-the-badge"/>
+  <img src="https://img.shields.io/github/last-commit/TruCoded/codeyy?style=for-the-badge"/>
 
-  <img src="https://img.shields.io/badge/Projects_Built-10+-brightgreen?style=for-the-badge"/>
+  <img src="https://img.shields.io/github/stars/TruCoded/codeyy?style=for-the-badge"/>
+
+  <img src="https://img.shields.io/github/forks/TruCoded/codeyy?style=for-the-badge"/>
 </p>
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Trusha;Designer+%2B+Developer;Building+Cool+Stuff;Software+Engineering+%7C+AI+%7C+Design" />
-</p>
+
 
 <h3 align="center">Somewhere between a designer and a software engineer.</h3>
 
@@ -107,7 +107,6 @@ Educational management platform designed to streamline academic workflows and ad
 
 ## GitHub Analytics
 <p align="center">
-![Profile Views](https://komarev.com/ghpvc/?username=TruCoded&style=for-the-badge&color=8B5CF6)
 <img src="https://github-profile-trophy.vercel.app/?username=TruCoded&theme=tokyonight&no-frame=true&row=1"/>
 </p>
 <p align="center">
