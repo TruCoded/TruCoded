@@ -142,6 +142,6 @@ Educational management platform designed to streamline academic workflows and ad
 
 <p align="center">
 
-### "Building things I wish existed."
+###  "Building things I wish existed."
 
 </p>
