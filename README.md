@@ -99,23 +99,20 @@ Educational management platform designed to streamline academic workflows and ad
 ---
 
 ## GitHub Analytics
+
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=TruCoded&theme=tokyonight&no-frame=true&row=1"/>
-</p>
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=TruCoded&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TruCoded&layout=compact&theme=tokyonight&hide_border=true"/>
-
+  <img src="https://github-profile-trophy.vercel.app/?username=TruCoded&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1&column=7"/>
 </p>
 
 <p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=TruCoded&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=TruCoded&theme=tokyonight&hide_border=true"/>
-
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TruCoded&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 </p>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=TruCoded&theme=tokyonight&hide_border=true"/>
+</p>
 ---
 
 ## 🚀 Featured Work
