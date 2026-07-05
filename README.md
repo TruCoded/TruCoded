@@ -107,6 +107,7 @@ Educational management platform designed to streamline academic workflows and ad
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=TruCoded&theme=tokyonight&hide_border=true" />
 </p>
+
 ---
 
 ## 🚀 Featured Work
