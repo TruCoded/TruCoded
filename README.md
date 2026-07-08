@@ -20,8 +20,11 @@ Building products, exploring AI, designing experiences, and turning random ideas
 
 ## About Me
 
-Hi, I'm Trusha.
-
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=30&pause=1000&color=A78BFA&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Trusha+%E2%9C%A8" alt="Typing SVG" />
+  </a>
+</p>
 I started with graphic design, branding, and visual storytelling before diving into software development.
 
 Today, you'll usually find me somewhere between VS Code, hackathon projects, startup ideas, and side quests that sounded much easier in my head.
