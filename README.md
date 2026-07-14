@@ -110,9 +110,6 @@ Educational management platform designed to streamline academic workflows and ad
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=TruCoded&theme=tokyonight&hide_border=true" />
 </p>
-
-<h2 align="center">📈 Contribution Graph</h2>
-
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=TruCoded&theme=tokyo-night&hide_border=true" />
 </p>
@@ -124,7 +121,9 @@ Educational management platform designed to streamline academic workflows and ad
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TruCoded&theme=tokyonight" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TruCoded&theme=tokyonight" />
-
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=TruCoded&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
 </p>
 
 ---
