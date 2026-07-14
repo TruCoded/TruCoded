@@ -111,6 +111,12 @@ Educational management platform designed to streamline academic workflows and ad
   <img src="https://streak-stats.demolab.com?user=TruCoded&theme=tokyonight&hide_border=true" />
 </p>
 
+<h2 align="center">📈 Contribution Graph</h2>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TruCoded&theme=tokyo-night&hide_border=true" />
+</p>
+
 ---
 
 ## 🚀 Featured Work
