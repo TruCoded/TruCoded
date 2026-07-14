@@ -173,6 +173,7 @@ I'm currently focused on software engineering, product development, and building
 
 </p>
 ---
+
 ## Top Projects
 
 <table>
@@ -275,17 +276,10 @@ src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?u
 <img src="https://img.shields.io/badge/Design-User%20First-C9A3FF?style=for-the-badge&logo=figma&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Entrepreneurship-Building%20Ideas-AEDFB7?style=for-the-badge&logo=rocket&logoColor=white"/>
-
 </p>
-
----
-
 <p align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=F8BBD0&height=120&section=footer"/>
-
 </p>
-
 <h3 align="center">
 
 ૮ ˶ᵔ ᵕ ᵔ˶ ა
