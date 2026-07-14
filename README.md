@@ -35,7 +35,7 @@ Today, I enjoy building products that combine thoughtful design, scalable code, 
 I'm currently focused on software engineering, product development, and building technology that people genuinely enjoy using.
 
 ---
-## Connect
+## Let's Connect
 
 <p align="center">
 
