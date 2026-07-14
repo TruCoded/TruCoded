@@ -35,37 +35,36 @@ Today, I enjoy building products that combine thoughtful design, scalable code, 
 I'm currently focused on software engineering, product development, and building technology that people genuinely enjoy using.
 
 ---
-
 ## Connect
 
 <p align="center">
 
 <a href="https://www.linkedin.com/in/trucoded/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-3B82F6?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://linktr.ee/layeredupp.in">
-<img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linktree-4ADE80?style=for-the-badge&logo=linktree&logoColor=white"/>
 </a>
 
 <a href="https://leetcode.com/u/trushaa15/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+<img src="https://img.shields.io/badge/LeetCode-FBBF24?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
 <a href="https://layeredupp.gumroad.com">
-<img src="https://img.shields.io/badge/LayeredUpp-FF90E8?style=for-the-badge&logo=gumroad&logoColor=white"/>
+<img src="https://img.shields.io/badge/LayeredUpp-F8A5D8?style=for-the-badge&logo=gumroad&logoColor=white"/>
 </a>
 
 <a href="https://instagram.com/trusha_015">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+<img src="https://img.shields.io/badge/Instagram-F472B6?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
 <a href="mailto:trushaa15@gmail.com">
-<img src="https://img.shields.io/badge/Personal_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Personal_Email-F87171?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="mailto:layeredupp@gmail.com">
-<img src="https://img.shields.io/badge/Business_Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Business_Email-E9A8D4?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
@@ -79,19 +78,19 @@ I'm currently focused on software engineering, product development, and building
 <p>
 
 <a href="https://isocpp.org/">
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-6C8CFF?style=for-the-badge&logo=cplusplus&logoColor=white"/>
 </a>
 
 <a href="https://python.org">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B"/>
+<img src="https://img.shields.io/badge/Python-7DA8D6?style=for-the-badge&logo=python&logoColor=FFE873"/>
 </a>
 
 <a href="https://developer.mozilla.org/docs/Web/JavaScript">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/JavaScript-FFD98E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </a>
 
 <a href="https://typescriptlang.org">
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-8CB8FF?style=for-the-badge&logo=typescript&logoColor=white"/>
 </a>
 
 </p>
@@ -101,19 +100,19 @@ I'm currently focused on software engineering, product development, and building
 <p>
 
 <a href="https://react.dev">
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/React-4A5568?style=for-the-badge&logo=react&logoColor=9DECF9"/>
 </a>
 
 <a href="https://redux-toolkit.js.org">
-<img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redux_Toolkit-B28CFF?style=for-the-badge&logo=redux&logoColor=white"/>
 </a>
 
 <a href="https://developer.mozilla.org/docs/Web/HTML">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-FF9E80?style=for-the-badge&logo=html5&logoColor=white"/>
 </a>
 
 <a href="https://developer.mozilla.org/docs/Web/CSS">
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-7DB7FF?style=for-the-badge&logo=css3&logoColor=white"/>
 </a>
 
 </p>
@@ -123,28 +122,29 @@ I'm currently focused on software engineering, product development, and building
 <p>
 
 <a href="https://mysql.com">
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-8CB8FF?style=for-the-badge&logo=mysql&logoColor=white"/>
 </a>
 
 </p>
 
 ### Tools
+
 <p>
 
 <a href="https://git-scm.com">
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-FF9A76?style=for-the-badge&logo=git&logoColor=white"/>
 </a>
 
 <a href="https://github.com">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-4B5563?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://code.visualstudio.com">
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS_Code-7CB8FF?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 </a>
 
 <a href="https://docs.python.org/3/library/idle.html">
-<img src="https://img.shields.io/badge/IDLE-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B"/>
+<img src="https://img.shields.io/badge/IDLE-7DA8D6?style=for-the-badge&logo=python&logoColor=FFE873"/>
 </a>
 
 </p>
@@ -154,11 +154,11 @@ I'm currently focused on software engineering, product development, and building
 <p>
 
 <a href="https://vercel.com">
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vercel-4A4A4A?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 <a href="https://render.com">
-<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black"/>
+<img src="https://img.shields.io/badge/Render-74DDB7?style=for-the-badge&logo=render&logoColor=white"/>
 </a>
 
 </p>
@@ -167,12 +167,11 @@ I'm currently focused on software engineering, product development, and building
 
 <p>
 
-<img src="https://img.shields.io/badge/Data_Structures_&_Algorithms-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+<img src="https://img.shields.io/badge/Data_Structures_%26_Algorithms-FFC980?style=for-the-badge&logo=leetcode&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Generative_AI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Generative_AI-D9A8FF?style=for-the-badge&logo=openai&logoColor=white"/>
 
 </p>
-
 ---
 ## Top Projects
 
@@ -263,20 +262,19 @@ src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?u
 
 # Beyond Tech
 
-
 <p align="center">
 
-<img src="https://img.shields.io/badge/Chess-Strategic%20Thinking-181717?style=for-the-badge&logo=lichess&logoColor=white"/>
+<img src="https://img.shields.io/badge/Chess-Strategic%20Thinking-8A7AFF?style=for-the-badge&logo=lichess&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Music-Creative%20Flow-E4405F?style=for-the-badge&logo=spotify&logoColor=white"/>
+<img src="https://img.shields.io/badge/Music-Creative%20Flow-F59AC2?style=for-the-badge&logo=spotify&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Hackathons-Building%20Fast-F05032?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Hackathons-Building%20Fast-FFA3B8?style=for-the-badge&logo=github&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Problem%20Solving-Critical%20Thinking-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+<img src="https://img.shields.io/badge/Problem%20Solving-Critical%20Thinking-FFC98A?style=for-the-badge&logo=leetcode&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Design-User%20First-764ABC?style=for-the-badge&logo=figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/Design-User%20First-C9A3FF?style=for-the-badge&logo=figma&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Entrepreneurship-Building%20Ideas-39E09B?style=for-the-badge&logo=rocket&logoColor=white"/>
+<img src="https://img.shields.io/badge/Entrepreneurship-Building%20Ideas-AEDFB7?style=for-the-badge&logo=rocket&logoColor=white"/>
 
 </p>
 
