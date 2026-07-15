@@ -13,9 +13,9 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=TruCoded&style=for-the-badge&color=F8BBD0"/>
 
-  <img src="https://img.shields.io/github/last-commit/TruCoded/codeyy?style=for-the-badge&color=F9A8D4"/>
+  <img src="https://img.shields.io/github/last-commit/TruCoded/Leetcodeproblems?style=for-the-badge&color=F9A8D4"/>
 
-  <img src="https://img.shields.io/github/commit-activity/m/TruCoded/codeyy?style=for-the-badge&color=E9D5FF"/>
+  <img src="https://img.shields.io/github/commit-activity/m/TruCoded/Leetcodeproblems?style=for-the-badge&color=E9D5FF"/>
 </p>
 
 ---
@@ -174,43 +174,29 @@ I'm currently focused on software engineering, product development, and building
 </p>
 ---
 
-## Top Projects
+## 🚀 Featured Project
 
 <table>
 <tr>
-<td width="50%">
+<td width="60%">
 
 ### 🤖 Codeyy
 
-AI-powered code understanding platform that helps developers understand existing code instead of only generating new code.
-
+An AI-powered platform that transforms source code into interactive learning experiences with code analysis, execution visualization, DSA guidance, interview preparation, and academic coding assistance—all in one workspace.
 <p>
-<a href="https://codeyy-gamma.vercel.app/">Live Demo</a> •
-<a href="https://github.com/TruCoded/codeyy">Repository</a>
+  <a href="https://codeyy-gamma.vercel.app/">Live Demo</a> •
+  <a href="https://github.com/TruCoded/codeyy">Repository</a>
 </p>
 
-<img src="https://img.shields.io/github/stars/TruCoded/codeyy?style=for-the-badge&color=F8BBD0"/>
-<img src="https://img.shields.io/github/forks/TruCoded/codeyy?style=for-the-badge&color=E9D5FF"/>
-
-</td>
-
-<td width="50%">
-
-### 🏫 School Management System
-
-Educational platform designed to simplify school administration and academic workflows.
-
 <p>
-<a href="https://schoolmanagement-cyan.vercel.app/">Live Demo</a> •
-<a href="https://github.com/TruCoded/schoolmanagement">Repository</a>
+  <img src="https://img.shields.io/github/stars/TruCoded/codeyy?style=for-the-badge&color=F8BBD0"/>
+  <img src="https://img.shields.io/github/forks/TruCoded/codeyy?style=for-the-badge&color=E9D5FF"/>
 </p>
-
-<img src="https://img.shields.io/github/stars/TruCoded/schoolmanagement?style=for-the-badge&color=F8BBD0"/>
-<img src="https://img.shields.io/github/forks/TruCoded/schoolmanagement?style=for-the-badge&color=E9D5FF"/>
 
 </td>
 </tr>
 </table>
+
 
 ---
 
