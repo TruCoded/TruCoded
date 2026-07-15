@@ -117,6 +117,39 @@ I'm currently focused on software engineering, product development, and building
 
 </p>
 
+### Backend
+
+<p>
+
+<a href="https://fastapi.tiangolo.com/">
+<img src="https://img.shields.io/badge/FastAPI-6FD8C2?style=for-the-badge&logo=fastapi&logoColor=white"/>
+</a>
+
+</p>
+
+### Database
+
+<p>
+
+<a href="https://mysql.com">
+<img src="https://img.shields.io/badge/MySQL-4A5568?style=for-the-badge&logo=mysql&logoColor=white"/>
+</a>
+</p>
+
+### APIs & AI
+
+<p>
+
+<a href="https://restfulapi.net/">
+<img src="https://img.shields.io/badge/REST_API-FFB8B8?style=for-the-badge&logo=fastapi&logoColor=white"/>
+</a>
+
+<a href="https://ai.google.dev/">
+<img src="https://img.shields.io/badge/Google_Gemini-C6A7FF?style=for-the-badge&logo=googlegemini&logoColor=white"/>
+</a>
+
+</p>
+
 ### Database
 
 <p>
@@ -172,6 +205,7 @@ I'm currently focused on software engineering, product development, and building
 <img src="https://img.shields.io/badge/Generative_AI-D9A8FF?style=for-the-badge&logo=openai&logoColor=white"/>
 
 </p>
+
 ---
 
 ## 🚀 Featured Project
