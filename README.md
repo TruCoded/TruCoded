@@ -37,34 +37,50 @@ I'm currently focused on software engineering, product development, and building
 ---
 ## Let's Connect
 
-<p align="center">
+<p>
 
 <a href="https://www.linkedin.com/in/trucoded/">
-<img src="https://img.shields.io/badge/LinkedIn-3B82F6?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://linktr.ee/layeredupp.in">
-<img src="https://img.shields.io/badge/Linktree-4ADE80?style=for-the-badge&logo=linktree&logoColor=white"/>
-</a>
-
-<a href="https://leetcode.com/u/trushaa15/">
-<img src="https://img.shields.io/badge/LeetCode-FBBF24?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
-
-<a href="https://layeredupp.gumroad.com">
-<img src="https://img.shields.io/badge/LayeredUpp-F8A5D8?style=for-the-badge&logo=gumroad&logoColor=white"/>
-</a>
-
-<a href="https://instagram.com/trusha_015">
-<img src="https://img.shields.io/badge/Instagram-F472B6?style=for-the-badge&logo=instagram&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-8CB8FF?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:trushaa15@gmail.com">
-<img src="https://img.shields.io/badge/Personal_Email-F87171?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Personal_Email-FFB7C5?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://instagram.com/trusha_015">
+<img src="https://img.shields.io/badge/Instagram-F8A5D8?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+</p>
+
+### Coding Profiles
+
+<p>
+
+<a href="https://leetcode.com/u/trushaa15/">
+<img src="https://img.shields.io/badge/LeetCode-FFD98E?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="https://www.hackerrank.com/profile/trushaa15">
+<img src="https://img.shields.io/badge/HackerRank-BEEFC8?style=for-the-badge&logo=hackerrank&logoColor=1B5E20"/>
+</a>
+
+</p>
+
+### Creator & Business
+
+<p>
+
+<a href="https://linktr.ee/layeredupp.in">
+<img src="https://img.shields.io/badge/Linktree-C7F0A8?style=for-the-badge&logo=linktree&logoColor=2E7D32"/>
+</a>
+
+<a href="https://layeredupp.gumroad.com">
+<img src="https://img.shields.io/badge/Gumroad-E9B8FF?style=for-the-badge&logo=gumroad&logoColor=white"/>
 </a>
 
 <a href="mailto:layeredupp@gmail.com">
-<img src="https://img.shields.io/badge/Business_Email-E9A8D4?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Business_Email-F8C8DC?style=for-the-badge&logo=gmail&logoColor=D63384"/>
 </a>
 
 </p>
