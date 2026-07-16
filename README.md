@@ -148,8 +148,9 @@ I'm currently focused on software engineering, product development, and building
 <p>
 
 <a href="https://mysql.com">
-<img src="https://img.shields.io/badge/MySQL-4A5568?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-8CB8FF?style=for-the-badge&logo=mysql&logoColor=white"/>
 </a>
+
 </p>
 
 ### APIs & AI
@@ -162,16 +163,6 @@ I'm currently focused on software engineering, product development, and building
 
 <a href="https://ai.google.dev/">
 <img src="https://img.shields.io/badge/Google_Gemini-C6A7FF?style=for-the-badge&logo=googlegemini&logoColor=white"/>
-</a>
-
-</p>
-
-### Database
-
-<p>
-
-<a href="https://mysql.com">
-<img src="https://img.shields.io/badge/MySQL-8CB8FF?style=for-the-badge&logo=mysql&logoColor=white"/>
 </a>
 
 </p>
