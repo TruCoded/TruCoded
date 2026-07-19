@@ -69,8 +69,12 @@ I'm currently focused on software engineering, product development, and building
 <img src="https://img.shields.io/badge/GeeksforGeeks-B7D3FF?style=for-the-badge&logo=geeksforgeeks&logoColor=0F9D58"/>
 </a>
 
+<a href="https://www.naukri.com/code360/profile/trusha">
+<img src="https://img.shields.io/badge/Code360-FFE8A3?style=for-the-badge&logo=codingninjas&logoColor=FF6B1A"/>
+</a>
+
 <a href="https://codeforces.com/profile/Trushaa">
-<img src="https://img.shields.io/badge/Codeforces-C7D7FF?style=for-the-badge&logo=codeforces&logoColor=445F9D"/>
+<img src="https://img.shields.io/badge/Codeforces-F5BDD6?style=for-the-badge&logo=codeforces&logoColor=445F9D"/>
 </a>
 
 </p>
