@@ -47,8 +47,8 @@ I'm currently focused on software engineering, product development, and building
 <img src="https://img.shields.io/badge/Personal_Email-FFB7C5?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://codeforces.com/profile/Trushaa">
-<img src="https://img.shields.io/badge/Codeforces-F5BDD6?style=for-the-badge&logo=codeforces&logoColor=F4B8D0"/>
+<a href="https://www.instagram.com/trusha_015">
+<img src="https://img.shields.io/badge/Instagram-E8A0C8?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
 </p>
