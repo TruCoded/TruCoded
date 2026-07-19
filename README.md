@@ -47,8 +47,8 @@ I'm currently focused on software engineering, product development, and building
 <img src="https://img.shields.io/badge/Personal_Email-FFB7C5?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://instagram.com/trusha_015">
-<img src="https://img.shields.io/badge/Instagram-F8A5D8?style=for-the-badge&logo=instagram&logoColor=white"/>
+<a href="https://codeforces.com/profile/Trushaa">
+<img src="https://img.shields.io/badge/Codeforces-F5BDD6?style=for-the-badge&logo=codeforces&logoColor=F4B8D0"/>
 </a>
 
 </p>
@@ -63,6 +63,14 @@ I'm currently focused on software engineering, product development, and building
 
 <a href="https://www.hackerrank.com/profile/trushaa15">
 <img src="https://img.shields.io/badge/HackerRank-BEEFC8?style=for-the-badge&logo=hackerrank&logoColor=1B5E20"/>
+</a>
+
+<a href="https://www.geeksforgeeks.org/profile/trucoded?from=explore">
+<img src="https://img.shields.io/badge/GeeksforGeeks-B7D3FF?style=for-the-badge&logo=geeksforgeeks&logoColor=0F9D58"/>
+</a>
+
+<a href="https://codeforces.com/profile/Trushaa">
+<img src="https://img.shields.io/badge/Codeforces-C7D7FF?style=for-the-badge&logo=codeforces&logoColor=445F9D"/>
 </a>
 
 </p>
