@@ -77,6 +77,10 @@ I'm currently focused on software engineering, product development, and building
 <img src="https://img.shields.io/badge/Codeforces-F5BDD6?style=for-the-badge&logo=codeforces&logoColor=445F9D"/>
 </a>
 
+<a href="https://codolio.com/profile/trusha">
+<img src="https://img.shields.io/badge/Codolio-E9B8FF?style=for-the-badge&logo=googlechrome&logoColor=6B21A8"/>
+</a>
+
 </p>
 
 ### Creator & Business
