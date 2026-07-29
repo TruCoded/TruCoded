@@ -1,9 +1,9 @@
 name: Generate Pac-Man
 
 on:
+  workflow_dispatch:
   schedule:
     - cron: "0 0 * * *"
-  workflow_dispatch:
 
 jobs:
   generate:
@@ -18,10 +18,9 @@ jobs:
         with:
           github_user_name: TruCoded
 
-      - name: Push to output branch
-        uses: crazy-max/ghaction-github-pages@v4
+      - name: Deploy Pac-Man
+        uses: peaceiris/actions-gh-pages@v4
         with:
-          build_dir: dist
-          target_branch: output
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_branch: pacman-output
+          publish_dir: ./dist
