@@ -315,6 +315,9 @@ src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?u
 
 <img src="https://img.shields.io/badge/Entrepreneurship-Building%20Ideas-AEDFB7?style=for-the-badge&logo=rocket&logoColor=white"/>
 </p>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/TruCoded/TruCoded/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Contribution City" />
+</div>
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=F8BBD0&height=120&section=footer"/>
 </p>
@@ -325,17 +328,11 @@ src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?u
 </h3>
 
 <p align="center">
-
 <i>"Building things I wish existed."</i>
-
 </p>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/TruCoded/TruCoded/output/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Contribution City" />
-</div>
+
 
 <p align="center">
-
 ♡ Thanks for stopping by ♡
-
 </p>
