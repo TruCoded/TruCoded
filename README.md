@@ -259,45 +259,40 @@ An AI-powered platform that transforms source code into interactive learning exp
 
 # GitHub Analytics
 
+<h2 align="center">
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
+  <span style="color: #F5A9C8;">$ github_stats --display</span>
+</h2>
+
 <p align="center">
-
-<img height="170"
-src="https://github-readme-stats.vercel.app/api?username=TruCoded&show_icons=true&theme=rose_pine&hide_border=true&count_private=true&include_all_commits=true"/>
-
-<img height="170"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=TruCoded&layout=compact&theme=rose_pine&hide_border=true"/>
-
+<img width="49%"
+src="https://github-stats-extended.vercel.app/api?username=TruCoded&show_icons=true&theme=rose_pine&hide_border=true&count_private=true&include_all_commits=true"/>
 </p>
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=TruCoded&theme=rose-pine&hide_border=true"/>
-
+<img width="40%"
+src="https://github-stats-extended.vercel.app/api/top-langs/?username=TruCoded&layout=compact&theme=rose_pine&hide_border=true"/>
+<img width="49%"
+src="https://streak-stats.demolab.com?user=TruCoded&theme=rose-pine&hide_border=true"/>
 </p>
 
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=TruCoded&theme=github-compact&hide_border=true"/>
-
+<img width="92%"
+src="https://github-readme-activity-graph.vercel.app/graph?username=TruCoded&theme=github-compact&hide_border=true"/>
 </p>
-
 ---
 
 # Featured Work
 
 <p align="center">
-
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TruCoded&theme=rose_pine"/>
-
 </p>
-
 <p align="center">
 <img width="49%"
 src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TruCoded&theme=rose_pine"/>
 <img width="49%"
 src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TruCoded&theme=rose_pine&utcOffset=5.5"/>
 </p>
-
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=TruCoded&theme=algolia&no-frame=true&row=1&column=6"/>
 </p>
@@ -334,6 +329,10 @@ src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?u
 <i>"Building things I wish existed."</i>
 
 </p>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/TruCoded/TruCoded/output/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Contribution City" />
+</div>
 
 <p align="center">
 
